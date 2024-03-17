@@ -1,0 +1,10 @@
+Jedná se o známou hru "Snake", kterou jsem programovala ve dvou jazycích - Python a C++
+
+OVLÁDÁNÍ
+Menu - myší
+Hra - WASD
+
+PRINCIP HRY
+V menu lze zvolit preferovanou vizáž hada - SKIN a ovoce, které chceme, aby se ve hře zobrazovalo - FRUIT, také lze zvolit obtížnost, na jejímž základě se mění rychlost pohybu hada.
+Po spuštění na obrazovce vidíme hlavu hada a ovoce, hada lze ovládat pomocí kláves WASD, našim cílem je sníst co nejvíce ovoce, aniž by se had střetl s okrajem obrazovky nebo vlastním tělem.
+Oživením této hry je také samotné ovoce, které je buďto statické, nebo se pohybuje. V tomto případě jsou nám za jeho sebrání připsané dvojnásobné body (2).
